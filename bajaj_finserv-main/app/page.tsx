@@ -13,9 +13,7 @@ export default function Home() {
         <Link href={"https://github.com/Ashishmp"} className="w-fit px-4 rounded-lg py-2 flex justify-center items-center bg-purple-500 text-white">
           Github
         </Link>
-        <Link href={"https://ashishmp.vercel.app/"} className="w-fit px-4 rounded-lg py-2 flex justify-center items-center bg-purple-500 text-white">
-          Porfolio
-        </Link>
+
       </div>
       <BFHLForm />
     </div>
